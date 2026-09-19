@@ -22,7 +22,7 @@ These scripts will:
 ## Data format:
 Each script expects fNIRS data in formats such as `.snirf`. Make sure your data is correctly preprocessed and formatted as described in the manuscript before running the notebook. 
 
-Data from the GLM processes are stored in .csv files. Contrast data was used for Figures 4-6 
+Data from the GLM processes are stored in .csv files. A cleaned individual-level contrast data frame has been included in the OSF repository. Contrast data was used for Figures 4-6 
 
 ## Citation:
 If you use this code in your research, please cite the manuscripts: *Effects of Semantic Context on Neural Activation Patterns in CI Users* and *Group-level test-retest reliability assessment using systemic physiology augmented functional near-infrared spectroscopy during a passive-listening task*
