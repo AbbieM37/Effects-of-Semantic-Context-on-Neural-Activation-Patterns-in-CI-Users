@@ -1,5 +1,5 @@
-# Effects of Semantic Context on Neural Activation Patterns in CI Users
-This repository contains the python script used to process, analyze, and generate cortical activation data + plots in the following manuscript: *Effects of Semantic Context on Neural Activation Patterns in CI Users*. Data can be found in the OSF repository linked here. 
+# Effects of Semantic Context on Neural Activation Patterns in Cochlear Implant Users
+This repository contains the python script used to process, analyze, and generate cortical activation data + plots in the following manuscript: *Effects of Semantic Context on Neural Activation Patterns in Cochlear Implant Users*. Data can be found in the OSF repository linked here. 
 https://doi.org/10.17605/OSF.IO/Q6NWB 
 
 ## Requirements:
@@ -26,5 +26,5 @@ Each script expects fNIRS data in formats such as `.snirf`. Make sure your data 
 Data from the GLM processes are stored in .csv files. A cleaned individual-level contrast data frame has been included in the OSF repository. Contrast data was used for Figures 4-6 
 
 ## Citation:
-If you use this code in your research, please cite the manuscripts: *Effects of Semantic Context on Neural Activation Patterns in CI Users* and *Group-level test-retest reliability assessment using systemic physiology augmented functional near-infrared spectroscopy during a passive-listening task*
+If you use this code in your research, please cite the manuscripts: *Effects of Semantic Context on Neural Activation Patterns in Cochlear Implant Users* and *Group-level test-retest reliability assessment using systemic physiology augmented functional near-infrared spectroscopy during a passive-listening task*
 
