@@ -1,5 +1,6 @@
 # Effects of Semantic Context on Neural Activation Patterns in CI Users
 This repository contains the python script used to process, analyze, and generate cortical activation data + plots in the following manuscript: *Effects of Semantic Context on Neural Activation Patterns in CI Users*. Data can be found in the OSF repository linked here. 
+https://doi.org/10.17605/OSF.IO/Q6NWB 
 
 ## Requirements:
 This script was executed with **Python 3.12** in **Jupyter Notebook**. All necessary libraries and packages are imported within the script, including MNE and MNE-NIRS.
